@@ -14,6 +14,8 @@
 - [License](#license)
 
 - [Creator Contact Information](#questions)
+
+- [Link to Walkthru Video](https://drive.google.com/file/d/1-BywOlsYbU6cWlKU_BQl65E8hjG_aFUg/view)
 ## Description <a name="description"></a>
 This project is a backend application that creates and manages an ecommerce database.  It uses categories, products, tags, and product tags to organize the data.  It also allows users to add, post, put, and delete entries from the database.  Because this is only a backend application, functionality is demonstrated using Insomina.  Further development for this program will include a full front end with polished UI/UX.
 ## Installation Instructions <a name="install"></a>
