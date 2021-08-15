@@ -31,6 +31,7 @@ router.get('/:id', (req, res) => {
 
 router.post('/', (req, res) => {
   // create a new category
+  const category = await Category.create
 });
 
 router.put('/:id', (req, res) => {
